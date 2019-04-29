@@ -1183,9 +1183,9 @@ void MapPort()
 // The first name is used as information source for addrman.
 // The second name should resolve to a list of seed addresses.
 static const char *strDNSSeed[][2] = {
-    {"13.126.161.6","13.126.161.6"},
-    {"13.232.98.250","13.232.98.250"},
-    {"13.127.14.190","13.127.14.190"}
+    {"134.209.56.85","134.209.56.85"},
+    {"167.99.43.94","167.99.43.94"},
+    {"159.65.203.202","159.65.203.202"}
 };
 // hidden service seeds, current base + future staking nodes
 static const char *strMainNetOnionSeed[][1] = {
